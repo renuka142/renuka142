@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhurerenuka14@gmail.com**
 
-- 📄 Know about my experiences [Portfolio] (https://renuka142.github.io/MySite/Renuka_Bhure/portfolio.html](https://renuka142.github.io/MySite/Renuka_Bhure/portfolio.html)
+- 📄 Know about my experiences [Portfolio](https://renuka142.github.io/MySite/Renuka_Bhure/portfolio.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
