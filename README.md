@@ -7,9 +7,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/72491412/114658050-d430c100-9d0e-11eb-9b6f-5e69c77a8c68.gif">
 
-- 🌱 I’m currently learning **React Js, Node.js, Java, Open Source**
+- 🌱 I’m currently learning **React Js, Node.js, Java, Open Source , Docker**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
+
+- **My skills are :**
+1. Programming Languages: C , Java 
+2.	Website Designing : HTML5, CSS , Javascript (ES5,ES6)
+3.	Web Frameworks : Node.js, React Js , Express.js
+4.	UI Frameworks : Bootstrap
+5.	Database Management: SQL, MongoDB , DBMS
+6.	Version Control System : Git Bash , Mercurial
+7.	Other Technologies : Github, Heroku, Firebase , Buisness Intelligence Tools
+
 
 - 📫 How to reach me **bhurerenuka14@gmail.com**
 
