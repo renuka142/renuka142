@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/72491412/114656714-320fd980-9d0c-11eb-8c2e-deb6c80b9ed0.png" width="1000">
 
 ### About Me 🚀
-🎓 I’m an Aspiring Web Developer & a junior pursuing my Bachelors in Information Technology. </br>
+🎓 I’m an Aspiring Software Engineer & a junior pursuing my Bachelors in Information Technology. </br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/72491412/114658050-d430c100-9d0e-11eb-9b6f-5e69c77a8c68.gif">
 
