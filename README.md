@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Renuka Bhure</h1>
 
-<img src="https://user-images.githubusercontent.com/72491412/114656714-320fd980-9d0c-11eb-8c2e-deb6c80b9ed0.png" width="1000">
+<img src="https://user-images.githubusercontent.com/72491412/124944400-e75fde00-e02a-11eb-82b3-6b6d9af4c5c1.png" width="1000">
 
 ### About Me 🚀
 🎓 I’m an Aspiring Software Engineer & a junior pursuing my Bachelors in Information Technology. </br>
